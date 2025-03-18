@@ -14,7 +14,7 @@
       🔵 Como você sabe da conta primária?<br><br>
       <div align="right">. . . 🟡</div><br>
       🔵 Bom, é https://github.com/KenZohn<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É para projetos de cursos.<br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tem meus projetos principais.<br><br>
       <div align="right">E seu LinkedIn? 🟡</div><br>
       🔵 É este aqui:<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.linkedin.com/in/johnny-mukai<br><br>
